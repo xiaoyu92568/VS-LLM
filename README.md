@@ -1,1 +1,3 @@
-# VS-LLM
+# Vision-Semantics-Label: A New Two-step Paradigm for Action Recognition with Large Language Model
+The official implementation of Vision-Semantics-Label: A New Two-step Paradigm for Action Recognition with Large Language Model.
+Coming soon...
